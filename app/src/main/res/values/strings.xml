@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TelaCadastro</string>
+    <string-array name="planets_array">
+        <item>Selecionar</item>
+        <item>Ordem Alfabética</item>
+        <item>Ordem de Z-A</item>
+        <item>Verduras</item>
+        <item>Frutas</item>
+
+    </string-array>
+</resources>
